@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi world!
+
+I want to learn to code. I like coffee and cheese.
